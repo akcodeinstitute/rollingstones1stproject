@@ -1,0 +1,346 @@
+ @import url("https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700!Exo:100,200,300,400,500,600,700");
+
+html body {
+    width:100%!important;
+    
+}
+
+body {
+    
+    background:url(../roll-cover.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.merctext{
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+
+.youtuberide{
+    vertical-align:center;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.tongue {
+    vertical-align: middle;
+    border-style: none;
+    
+    
+}
+ul  {
+    
+    list-style-type: none;
+}
+    
+header{
+  text-align:center;
+  
+}
+
+
+
+span {
+  text-align:center;
+  font-weight: 800;
+  list-style-type: none;
+  
+    align-items: center;
+
+       
+}
+
+
+footer {
+  background-color: #525252;
+  color: #fafafa;
+  min-height: 120px;
+  margin: 0;
+}
+
+
+.social-links {
+    padding-bottom: 15px;
+    background-position:center;
+}
+
+.list-inline .mb-0 .downloadicons {
+  float:center;
+}
+
+
+.social-links li a i {
+   width:32px; 
+   height:32px;
+   padding:12px 0;
+   border-radius: 50%;
+   font-size: 13px;
+   line-height: 7px;
+   text-align: center;
+   float:none;
+   color: #fafafa;
+   background-position:center;
+   background: #8f8f8f;
+   transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover{
+    background: #e84610;
+}
+
+.page-section{
+    margin-top:5rem;
+    margin-bottom:5rem;
+    
+}
+
+.bg-faded {
+  background-color: rgba(188, 0, 0, 0.6);
+  padding-left:15px;
+  padding-right:15px;
+  border:15px;
+}
+
+.intro .nav-link{
+  position: relative;
+  background-position:center;
+}
+
+.mb-0 {
+    background-position:center;
+}
+
+.intro .intro-text .nav-link{
+    left: 0;
+    width: 60%;
+    margin-top: 2rem;
+    position: absolute;
+    
+  }
+  
+ .shadowfont {
+   text-shadow: 2px 2px #070707;
+ } 
+
+
+@media (min-width: 1200px) {
+  .intro .intro-text .nav-link{
+    width: 45%;
+  }
+}
+
+.redtongue {
+   border-radius:50%;
+   width:20%;
+}
+
+h1 {
+    font-family: 'Alfa Slab One';
+    font-size:50px;
+    font-weight:500;
+    font-style:bold;
+    color:white;
+}
+
+ .nav-link{
+    text-align:center ;
+    font-family: 'Alfa Slab One';
+    font-style:bold;
+    color:white;
+    letter-spacing: 2px;
+    font-size:15px;
+    
+    
+}
+
+h2 {
+    font-family: 'Alfa Slab One';
+    font-size:30px;
+    font-weight:500;
+    font-style:bold;
+    color: white;
+}
+
+.py-lg-4 .albumfield{
+  text-align:center;
+  background-position:center;
+}
+
+h3 {
+  color:red;
+  font-family: 'Alfa Slab One';
+    font-size:40px;
+    font-weight:500;
+    font-style:bold;
+    text-align:center;
+}
+
+.albumheading {
+  font-size:40px;
+}
+
+
+.rounded1 {
+    background-color: rgba(0, 0, 255, 0.6);
+}
+
+.posteralbum {
+  color:red;
+}
+
+.img-fluid-1{
+  height:268px;
+  width:268px;
+  vertical-align:right;
+  
+}
+
+.footersocial {
+  vertical-align: middle;
+}
+
+.merchandiseheading {
+  color:red;
+}
+
+h4 {
+  color:blue;
+  font-weight:800;
+  font-style:bold;
+  
+}
+.albuminfo {
+   color:blue;
+  font-weight:800;
+  font-style:bold;
+}
+
+
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+    
+}
+.fa-apple .fa-youtube .fa-soundcloud .fa-amazon .fa-vimeo{
+  
+  width:32px; 
+   height:32px;
+   padding:12px 0;
+   border-radius: 50%;
+   font-size: 13px;
+   line-height: 7px;
+   text-align: center;
+   color: #fafafa;
+   background: #8f8f8f;
+   transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
+
+.albumstory {
+  color:white;
+  font-weight:normal; 
+}
+
+.col-md-4 .mb-5 .mb-lg-0 .downloadicons {
+  width: 100%
+}
+ 
+ #mainNav{
+  text-align:center ; 
+  background-position:center!important;
+  
+ }
+.blueicon {
+  color:blue;
+}
+ 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid blue;
+    text-align: left;
+    padding: 8px;
+    font-weight:700;
+    color:black;
+}
+
+tr {
+    background-color: blue;
+}
+th {
+    background-color:black;
+    color:white;
+} 
+
+.tickets{
+  color:white;
+} 
+ 
+.albumicons {
+  color:white;
+}
+
+.navintro {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+     
+}
+
+.navcontent > a {
+    display: inline;
+    color:white;
+    font-weight:700;
+    font-size:20px;
+}
+
+.bodytour {
+    background:url(/tour-image.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ 
+.merchandisecover{
+    background:url(/merchandise-image.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ 
+.buymerch{
+  color:white;
+  font-weight:800;
+  font-style:bold;
+  font-size: 20px;
+ 
+ }
+ 
+ .covermerch{
+     background-color: rgba(0, 0, 255, 0.6);
+ }
+ 
+ .coveralbums{
+     
+ }
+ 
+ 
