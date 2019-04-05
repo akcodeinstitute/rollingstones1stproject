@@ -7,7 +7,7 @@ html body {
 
 body {
     
-    background:url(../roll-cover.jpg);
+    background:url(roll-cover.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -314,14 +314,14 @@ th {
 }
 
 .bodytour {
-    background:url(/tour-image.jpg);
+    background:url(tour-image.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
 }
  
 .merchandisecover{
-    background:url(/merchandise-image.jpg);
+    background:url(merchandise-image.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
